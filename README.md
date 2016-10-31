@@ -1,2 +1,2 @@
 # js-polyomix
-JS Tetris implemented using React that in future should become Polyomix
+React JS Tetris that in the future should become a game called Polyomix.
